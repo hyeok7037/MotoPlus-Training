@@ -1,0 +1,14 @@
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\bin\Debug\net8.0-windows\RobotStringClient.exe
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\bin\Debug\net8.0-windows\RobotStringClient.deps.json
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\bin\Debug\net8.0-windows\RobotStringClient.runtimeconfig.json
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\bin\Debug\net8.0-windows\RobotStringClient.dll
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\bin\Debug\net8.0-windows\RobotStringClient.pdb
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\RobotStringClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\RobotStringClient.AssemblyInfoInputs.cache
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\RobotStringClient.AssemblyInfo.cs
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\RobotStringClient.csproj.CoreCompileInputs.cache
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\RobotStringClient.dll
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\refint\RobotStringClient.dll
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\RobotStringClient.pdb
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\RobotStringClient.genruntimeconfig.cache
+C:\Users\SangHyeok\Desktop\04_Socket_03_SVar_TCP\CSharp\obj\Debug\net8.0-windows\ref\RobotStringClient.dll
